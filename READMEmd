@@ -1,0 +1,8 @@
+## creare il file package.json:
+
+npm init- y
+
+## Installare librerie dev:
+
+npm install -D typescript ts-node
+
